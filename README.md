@@ -1,7 +1,6 @@
 # coron*A* t*R*acker
 
 ## [Live](https://corona---tracker.herokuapp.com/)
-
 ![label](replay.gif "gif")
 
 # Installation instructions
